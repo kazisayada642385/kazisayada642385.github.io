@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> Kazi Sayada Rahman Mim </TITLE>
+</head>
+<br>
+<body>
+<h1> My Academic Information</h1>
+<br>
+<p> <strong> Name:Kazi Sayada Rahman Mim </strong>  </p>
+<p> <strong> Student ID : 011 192 032 </strong> </p>
+<p> <strong> Studing CSE in UNITED INTERNATIONAL UNIVERSITY </strong> </p>
+<p> <strong> Home District : Satkhira </strong> </p>
+</br>
+<table>
+<style>
+table,th,td {
+border:1 px solid black;
+}
+</style>
+</head>
+<tr>
+<th> Name Of Exam</th>
+<th>Passing Year</th>
+<th>GPA</th>
+<th>Institution</th>
+</tr>
+<head>
+<body>
+<td> SSC </td>
+<td> 2016</td>
+<td> 5.00</td>
+<tr>
+<a href="https://www.facebook.com/Viquarunnisa.Noon.School.And.Collage/ VIQUARUNNISA NOON SCHOOL AND COLLAGE"></tr>
+</tr>
+<tr>
+<td> HSC</td>
+<td> 2018</td>
+<td>5.00 </td>
+<td><a href="https://www.facebook.com/Viquarunnisa.Noon.School.And.Collage/ VIQUARUNNISA NOON SCHOOL AND COLLAG"> </td>
